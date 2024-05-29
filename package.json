@@ -1,0 +1,22 @@
+{
+  "name": "tailwindhtml",
+  "version": "1.0.0",
+  "description": "A place where magic happen with tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek1716/tailwindHTML.git"
+  },
+  "author": "Abhishek Upadhyay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishek1716/tailwindHTML/issues"
+  },
+  "homepage": "https://github.com/abhishek1716/tailwindHTML#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
