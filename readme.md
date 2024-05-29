@@ -43,9 +43,7 @@ Add your compiled CSS file to the <head> and start using Tailwind’s utility cl
   <link href="./output.css" rel="stylesheet">
 </head>
 <body>
-  <h1 class="text-3xl font-bold underline">
-    Hello world!
-  </h1>
+  <main> </main>
 </body>
 </html>
 ```
